@@ -1,0 +1,284 @@
+{
+    "banglore":[
+        {
+            "model":"Activa 4G",
+            "city":"banglore",
+            "price":150,
+            "location":["Indiranagar (Near metro station)","Yeshwanthpur (BMTC Bus Station)"," Koramangala (Near Oneplus Service Centre)","Hennur Lake (Next to Axis Bank)","Whitefield - Tansi Honda (Hoodi Circle)","Bellandur (Adarsh Palm Retreat)","HSR(NIFT College) (NIFT College)","Majestic (Opp to POTHYS)","BTM Layout (Below Ambur Star Briyani)","Bangalore RBx Hub","Marathalli Bridge","Electronic City"],
+            "img":"https://d3vp2rl7047vsp.cloudfront.net/bike_models/images/000/000/272/medium/Activa-6G.png?1666077785",
+            "available":true,
+            "pickupDate":"",
+            "dropoffDate":"",
+            "pickupTime":"",
+            "dropoffTime":"",
+            "id":1
+
+        },
+        {
+            "model":"Hero Pleasure Plus",
+            "city":"banglore",
+            "price":170,
+            "location":["Yeshwanthpur (BMTC Bus Station)","Whitefield - Tansi Honda (Hoodi Circle)","Bellandur (Adarsh Palm Retreat)","HSR(NIFT College) (NIFT College)","BTM Layout (Below Ambur Star Briyani)","Bangalore RBx Hub","Marathalli Bridge","Electronic City"],
+            "img":"https://d3vp2rl7047vsp.cloudfront.net/bike_models/images/000/000/338/medium/HERO_PLEASURE_PLUS.png?1660655867",
+            "available":true,
+            "pickupDate":"",
+            "dropoffDate":"",
+            "pickupTime":"",
+            "dropoffTime":"",
+            "id":2
+
+        },
+        {
+            "model":"Honda Dio",
+            "city":"banglore",
+            "price":130,
+            "location":["Indiranagar (Near metro station)","Yeshwanthpur (BMTC Bus Station)","Hennur Lake (Next to Axis Bank)","Bellandur (Adarsh Palm Retreat)","HSR(NIFT College) (NIFT College)","Majestic (Opp to POTHYS)","BTM Layout (Below Ambur Star Briyani)"],
+            "img":"https://d3vp2rl7047vsp.cloudfront.net/bike_models/images/000/000/308/medium/HONDA_DIO_BS6.png?1660734795",
+            "available":true,
+            "pickupDate":"",
+            "dropoffDate":"",
+            "pickupTime":"",
+            "dropoffTime":"",
+            "id":3
+
+        },
+        {
+            "model":"Yamaha Ray ZR",
+            "city":"banglore",
+            "price":200,
+            "location":["Indiranagar (Near metro station)","Yeshwanthpur (BMTC Bus Station)","Bangalore RBx Hub","Marathalli Bridge","Electronic City"],
+            "img":"https://d3vp2rl7047vsp.cloudfront.net/bike_models/images/000/000/341/medium/YAMAHA_RAY_ZR.png?1660655544",
+            "available":true,
+            "pickupDate":"",
+            "dropoffDate":"",
+            "pickupTime":"",
+            "dropoffTime":"",
+            "id":4
+
+        },
+        {
+            "model":"Bajaj Pulsar 150",
+            "city":"banglore",
+            "price":300,
+            "location":["Majestic (Opp to POTHYS)","BTM Layout (Below Ambur Star Briyani)","Bangalore RBx Hub","Marathalli Bridge","Electronic City"],
+            "img":"https://d3vp2rl7047vsp.cloudfront.net/bike_models/images/000/000/247/medium/Bajaj_Pulsar_150_neon.png?1660829851",
+            "available":true,
+            "pickupDate":"",
+            "dropoffDate":"",
+            "pickupTime":"",
+            "dropoffTime":"",
+            "id":5
+
+        },
+        {
+            "model":"Yamaha MT-15",
+            "city":"banglore",
+            "price":400,
+            "location":["Indiranagar (Near metro station)","Yeshwanthpur (BMTC Bus Station)"," Koramangala (Near Oneplus Service Centre)","Hennur Lake (Next to Axis Bank)"],
+            "img":"https://d3vp2rl7047vsp.cloudfront.net/bike_models/images/000/000/340/medium/YAMAHA_MT-15__BS6.png?1660655626",
+            "available":true,
+            "pickupDate":"",
+            "dropoffDate":"",
+            "pickupTime":"",
+            "dropoffTime":"",
+            "id":6
+        },
+        {
+            "model":"TVS Jupiter 125",
+            "city":"banglore",
+            "price":100,
+            "location":["Indiranagar (Near metro station)","Yeshwanthpur (BMTC Bus Station)","Bangalore RBx Hub","Marathalli Bridge","Electronic City"],
+            "img":"https://d3vp2rl7047vsp.cloudfront.net/bike_models/images/000/000/343/medium/TVS_Jupiter_125.png?1666078032",
+            "available":true,
+            "pickupDate":"",
+            "dropoffDate":"",
+            "pickupTime":"",
+            "dropoffTime":"",
+            "id":7
+
+        },
+        {
+            "model":"Royal Enfield Classic",
+            "city":"banglore",
+            "price":800,
+            "location":["Indiranagar (Near metro station)","Yeshwanthpur (BMTC Bus Station)"," Koramangala (Near Oneplus Service Centre)","Hennur Lake (Next to Axis Bank)","Electronic City"],
+            "img":"https://d3vp2rl7047vsp.cloudfront.net/bike_models/images/000/000/274/medium/ROYAL_ENFIELD_CLASSIC_350_%28BS6%29.png?1660736086",
+            "available":true,
+            "pickupDate":"",
+            "dropoffDate":"",
+            "pickupTime":"",
+            "dropoffTime":"",
+            "id":8
+
+        },
+        {
+            "model":"Honda CB 350 RS",
+            "city":"banglore",
+            "price":1000,
+            "location":["Indiranagar (Near metro station)","Yeshwanthpur (BMTC Bus Station)"," Koramangala (Near Oneplus Service Centre)","Hennur Lake (Next to Axis Bank)","Whitefield - Tansi Honda (Hoodi Circle)","Bellandur (Adarsh Palm Retreat)","HSR(NIFT College) (NIFT College)","Majestic (Opp to POTHYS)","BTM Layout (Below Ambur Star Briyani)","Bangalore RBx Hub","Marathalli Bridge","Electronic City"],
+            "img":"https://d3vp2rl7047vsp.cloudfront.net/bike_models/images/000/000/288/medium/HONDA_CB_350_RS.png?1660732332",
+            "available":true,
+            "pickupDate":"",
+            "dropoffDate":"",
+            "pickupTime":"",
+            "dropoffTime":"",
+            "id":9
+
+        },
+        {
+            "model":"Aprilia SR 160",
+            "city":"banglore",
+            "price":250,
+            "location":["Electronic City"],
+            "img":"https://d3vp2rl7047vsp.cloudfront.net/bike_models/images/000/000/315/medium/APRILIA_SR_160_ABS_%28BS6%29.png?1660734985",
+            "available":true,
+            "pickupDate":"",
+            "dropoffDate":"",
+            "pickupTime":"",
+            "dropoffTime":"",
+            "id":10
+
+        },
+        {
+            "model":"TVS N-Torq",
+            "city":"banglore",
+            "price":220,
+            "location":["Indiranagar (Near metro station)","Yeshwanthpur (BMTC Bus Station)"," Koramangala (Near Oneplus Service Centre)","Hennur Lake (Next to Axis Bank)","Whitefield - Tansi Honda (Hoodi Circle)"],
+            "img":"https://d3vp2rl7047vsp.cloudfront.net/bike_models/images/000/000/345/medium/TVS_N-Torq.png?1666077813",
+            "available":true,
+            "pickupDate":"",
+            "dropoffDate":"",
+            "pickupTime":"",
+            "dropoffTime":"",
+            "id":11
+
+        },
+        {
+            "model":"Yamaha R15 BS6",
+            "city":"banglore",
+            "price":900,
+            "location":["Indiranagar (Near metro station)","Yeshwanthpur (BMTC Bus Station)"," Koramangala (Near Oneplus Service Centre)","Hennur Lake (Next to Axis Bank)","Whitefield - Tansi Honda (Hoodi Circle)","Bellandur (Adarsh Palm Retreat)","HSR(NIFT College) (NIFT College)","Majestic (Opp to POTHYS)","BTM Layout (Below Ambur Star Briyani)","Bangalore RBx Hub","Marathalli Bridge","Electronic City"],
+            "img":"https://d3vp2rl7047vsp.cloudfront.net/bike_models/images/000/000/339/medium/YAMAHA_R15_BS6.png?1660727394",
+            "available":true,
+            "pickupDate":"",
+            "dropoffDate":"",
+            "pickupTime":"",
+            "dropoffTime":"",
+            "id":12
+
+        },
+        {
+            "model":"Royal Enfield Meteor",
+            "city":"banglore",
+            "price":1200,
+            "location":["Majestic (Opp to POTHYS)","BTM Layout (Below Ambur Star Briyani)","Bangalore RBx Hub","Marathalli Bridge","Electronic City"],
+            "img":"https://d3vp2rl7047vsp.cloudfront.net/bike_models/images/000/000/281/medium/ROYAL_ENFIELD_METEOR_350_SUPERNOVA.png?1660729204",
+            "available":true,
+            "pickupDate":"",
+            "dropoffDate":"",
+            "pickupTime":"",
+            "dropoffTime":"",
+            "id":13
+
+        },
+        {
+            "model":"Gixxer 150 SF",
+            "city":"banglore",
+            "price":400,
+            "location":["Indiranagar (Near metro station)","Yeshwanthpur (BMTC Bus Station)"," Koramangala (Near Oneplus Service Centre)","Hennur Lake (Next to Axis Bank)","Bangalore RBx Hub","Marathalli Bridge","Electronic City"],
+            "img":"https://d3vp2rl7047vsp.cloudfront.net/bike_models/images/000/000/351/medium/gixxer_150_sf.png?1671621134",
+            "available":true,
+            "pickupDate":"",
+            "dropoffDate":"",
+            "pickupTime":"",
+            "dropoffTime":"",
+            "id":14
+
+        },
+        {
+            "model":"TVS APACHE RTR",
+            "city":"banglore",
+            "price":350,
+            "location":["Indiranagar (Near metro station)","Yeshwanthpur (BMTC Bus Station)"," Koramangala (Near Oneplus Service Centre)","Hennur Lake (Next to Axis Bank)"],
+            "img":"https://d3vp2rl7047vsp.cloudfront.net/bike_models/images/000/000/243/medium/TVS_APACHE_RTR_160_V4.png?1660805298",
+            "available":true,
+            "pickupDate":"",
+            "dropoffDate":"",
+            "pickupTime":"",
+            "dropoffTime":"",
+            "id":15
+
+        },
+        {
+            "model":"Honda Hornet 2.0",
+            "city":"banglore",
+            "price":450,
+            "location":["Indiranagar (Near metro station)","Yeshwanthpur (BMTC Bus Station)"," Koramangala (Near Oneplus Service Centre)","Hennur Lake (Next to Axis Bank)","Whitefield - Tansi Honda (Hoodi Circle)","Bellandur (Adarsh Palm Retreat)","HSR(NIFT College) (NIFT College)","Majestic (Opp to POTHYS)","BTM Layout (Below Ambur Star Briyani)","Bangalore RBx Hub","Marathalli Bridge","Electronic City"],
+            "img":"https://d3vp2rl7047vsp.cloudfront.net/bike_models/images/000/000/296/medium/HONDA_HORNET_2.0.png?1660734324",
+            "available":true,
+            "pickupDate":"",
+            "dropoffDate":"",
+            "pickupTime":"",
+            "dropoffTime":"",
+            "id":16
+
+        },
+        {
+            "model":"Avenger Cruise",
+            "city":"banglore",
+            "price":750,
+            "location":["Indiranagar (Near metro station)","Yeshwanthpur (BMTC Bus Station)"],
+            "img":"https://d3vp2rl7047vsp.cloudfront.net/bike_models/images/000/000/320/medium/AVENGER_CRUISE_220_%28BS6%29.png?1660734515",
+            "available":true,
+            "pickupDate":"",
+            "dropoffDate":"",
+            "pickupTime":"",
+            "dropoffTime":"",
+            "id":17
+
+        },
+        {
+            "model":"Royal Enfield Continental",
+            "city":"banglore",
+            "price":1100,
+            "location":["Indiranagar (Near metro station)","Yeshwanthpur (BMTC Bus Station)"," Koramangala (Near Oneplus Service Centre)","Hennur Lake (Next to Axis Bank)","Whitefield - Tansi Honda (Hoodi Circle)"],
+            "img":"https://d3vp2rl7047vsp.cloudfront.net/bike_models/images/000/000/239/medium/Royal_Enfield_Continental_GT_650.png?1660830000",
+            "available":true,
+            "pickupDate":"",
+            "dropoffDate":"",
+            "pickupTime":"",
+            "dropoffTime":"",
+            "id":18
+
+        },
+        {
+            "model":"Royal Enfield Interceptor",
+            "city":"banglore",
+            "price":1100,
+            "location":["Majestic (Opp to POTHYS)","BTM Layout (Below Ambur Star Briyani)","Bangalore RBx Hub","Marathalli Bridge","Electronic City"],
+            "img":"https://d3vp2rl7047vsp.cloudfront.net/bike_models/images/000/000/242/medium/ROYAL_ENFIELD_INTERCEPTOR_650.png?1660729788",
+            "available":true,
+            "pickupDate":"",
+            "dropoffDate":"",
+            "pickupTime":"",
+            "dropoffTime":"",
+            "id":19
+
+        },
+        {
+            "model":"Bajaj Pulsar 250F",
+            "city":"banglore",
+            "price":1200,
+            "location":["Indiranagar (Near metro station)","Yeshwanthpur (BMTC Bus Station)"," Koramangala (Near Oneplus Service Centre)","Hennur Lake (Next to Axis Bank)"],
+            "img":"https://d3vp2rl7047vsp.cloudfront.net/bike_models/images/000/000/318/medium/BAJAJ_PULSAR_250F.png?1660734695",
+            "available":true,
+            "pickupDate":"",
+            "dropoffDate":"",
+            "pickupTime":"",
+            "dropoffTime":"",
+            "id":20
+
+        }
+        
+    ]    
+}
