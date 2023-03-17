@@ -487,16 +487,10 @@
         }
 
     ],
-    "pickupData":{
-        "date":""
-    },
-    "dropoffData":{
-        "date":""
-    },
-    "pickupTime":{
-        "time":""
-    },
-    "dropoffTime":{
-        "time":""
-    }   
+   "rentalDetails":{
+    "pickupDate":"",
+    "pickupTime":"",
+    "dropoffDate":"",
+    "dropoffTime":""
+   }
 }
