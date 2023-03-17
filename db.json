@@ -487,8 +487,16 @@
         }
 
     ],
-    "pickupData":"",
-    "dropoffData":"",
-    "pickupTime":"",
-    "dropoffTime":""    
+    "pickupData":{
+        "date":""
+    },
+    "dropoffData":{
+        "date":""
+    },
+    "pickupTime":{
+        "time":""
+    },
+    "dropoffTime":{
+        "time":""
+    }   
 }
