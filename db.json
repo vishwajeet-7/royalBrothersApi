@@ -319,7 +319,8 @@
             "status":"booked"
         },
         {
-            "vehicle":"https://d3vp2rl7047vsp.cloudfront.net/bike_models/images/000/000/340/medium/YAMAHA_MT-15__BS6.png?1660655626",
+            "vehicle":"Royal Enfield Classic",
+            "image":"https://d3vp2rl7047vsp.cloudfront.net/bike_models/images/000/000/340/medium/YAMAHA_MT-15__BS6.png?1660655626",
             "timefrom":"2:30 mm",
             "datefrom":"1 Mar 2023",
             "timeto":"4:30 am",
